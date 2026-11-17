@@ -1,0 +1,5 @@
+outs:
+- md5: ff09cfa7155c3061a2ffe38bfae7b334
+  size: 10485760
+  hash: md5
+  path: mapper_13804.txt

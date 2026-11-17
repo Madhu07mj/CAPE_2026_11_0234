@@ -1,0 +1,5 @@
+outs:
+- md5: 90521c6056619fca346384fb62db69a7
+  size: 10485760
+  hash: md5
+  path: auditor_13150.py

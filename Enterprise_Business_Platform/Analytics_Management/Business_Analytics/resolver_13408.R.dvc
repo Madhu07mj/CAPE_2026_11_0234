@@ -1,0 +1,5 @@
+outs:
+- md5: f45ff59551509d7e6db72129ec532402
+  size: 10485760
+  hash: md5
+  path: resolver_13408.R

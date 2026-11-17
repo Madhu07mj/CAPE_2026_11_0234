@@ -1,0 +1,5 @@
+outs:
+- md5: f48a0d89b681351298296e1564c7121a
+  size: 10485760
+  hash: md5
+  path: monitor_13875.txt

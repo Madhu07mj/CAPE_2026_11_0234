@@ -1,0 +1,5 @@
+outs:
+- md5: 41e28e4d2df5cede83c46ef07000a9f1
+  size: 10485760
+  hash: md5
+  path: logger_13302.py

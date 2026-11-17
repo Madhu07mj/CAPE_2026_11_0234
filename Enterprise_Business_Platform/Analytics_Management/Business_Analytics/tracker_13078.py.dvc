@@ -1,0 +1,5 @@
+outs:
+- md5: 48ef2368ccff8680cb5f0d1dc4f9dc73
+  size: 10485760
+  hash: md5
+  path: tracker_13078.py

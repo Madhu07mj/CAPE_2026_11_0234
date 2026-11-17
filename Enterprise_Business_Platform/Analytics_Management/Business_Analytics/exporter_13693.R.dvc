@@ -1,0 +1,5 @@
+outs:
+- md5: a3a27e821aafdb32690b09d8f2556eab
+  size: 10485760
+  hash: md5
+  path: exporter_13693.R

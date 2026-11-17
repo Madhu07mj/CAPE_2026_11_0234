@@ -1,0 +1,5 @@
+outs:
+- md5: ee72b0ad0c1690bacaaafe3638e846d0
+  size: 10485760
+  hash: md5
+  path: logger_13622.R

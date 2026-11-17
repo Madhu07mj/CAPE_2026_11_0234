@@ -1,0 +1,5 @@
+outs:
+- md5: d5f197e3a4e330a0375464ca55f3f9e1
+  size: 10485760
+  hash: md5
+  path: exporter_14073.txt

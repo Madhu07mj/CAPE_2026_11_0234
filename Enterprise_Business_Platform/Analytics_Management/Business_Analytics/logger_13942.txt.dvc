@@ -1,0 +1,5 @@
+outs:
+- md5: cae2f582dfaaab45be25513f66660b35
+  size: 10485760
+  hash: md5
+  path: logger_13942.txt

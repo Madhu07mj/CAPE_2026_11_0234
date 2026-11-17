@@ -1,0 +1,5 @@
+outs:
+- md5: 86fc2dab6856ea62520270c0284bdb03
+  size: 10485760
+  hash: md5
+  path: checker_13974.txt

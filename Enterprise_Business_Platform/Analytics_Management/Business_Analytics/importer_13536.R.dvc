@@ -1,0 +1,5 @@
+outs:
+- md5: 3b7eddb2e50ffc8851edeaaecc820612
+  size: 10485760
+  hash: md5
+  path: importer_13536.R

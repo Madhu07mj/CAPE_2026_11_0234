@@ -1,0 +1,5 @@
+outs:
+- md5: c2ae8464977192b9f0d72cf341be254d
+  size: 10485760
+  hash: md5
+  path: parser_13749.txt

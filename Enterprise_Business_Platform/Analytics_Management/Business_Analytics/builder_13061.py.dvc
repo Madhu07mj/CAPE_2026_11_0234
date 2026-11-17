@@ -1,0 +1,5 @@
+outs:
+- md5: 9d421bf4bc17a1c258472fc72dbcd537
+  size: 10485760
+  hash: md5
+  path: builder_13061.py

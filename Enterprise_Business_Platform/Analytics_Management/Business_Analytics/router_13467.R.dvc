@@ -1,0 +1,5 @@
+outs:
+- md5: 90dbb91bc4d46e1a6010406b50af7852
+  size: 10485760
+  hash: md5
+  path: router_13467.R

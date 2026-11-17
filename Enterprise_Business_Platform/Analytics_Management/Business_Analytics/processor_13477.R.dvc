@@ -1,0 +1,5 @@
+outs:
+- md5: 68b378a55de1ae2789cf5d757b848d33
+  size: 10485760
+  hash: md5
+  path: processor_13477.R
