@@ -1,0 +1,5 @@
+outs:
+- md5: 5c2e389536ddb90be29e7a74ee11f8ec
+  size: 3145728
+  hash: md5
+  path: loader_11340.py

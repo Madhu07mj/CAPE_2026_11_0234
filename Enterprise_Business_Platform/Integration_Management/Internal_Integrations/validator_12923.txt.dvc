@@ -1,0 +1,5 @@
+outs:
+- md5: f45c908e97456f20e283a88a9edffb47
+  size: 3145728
+  hash: md5
+  path: validator_12923.txt

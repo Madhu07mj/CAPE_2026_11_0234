@@ -1,0 +1,5 @@
+outs:
+- md5: a34796df465e49dc4a57ce9b2e2e6f67
+  size: 3145728
+  hash: md5
+  path: loader_11660.R

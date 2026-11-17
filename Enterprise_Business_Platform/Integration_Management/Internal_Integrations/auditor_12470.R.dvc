@@ -1,0 +1,5 @@
+outs:
+- md5: 910ece5124ce7e383a9b6935e01d49b0
+  size: 3145728
+  hash: md5
+  path: auditor_12470.R

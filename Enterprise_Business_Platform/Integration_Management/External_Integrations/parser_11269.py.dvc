@@ -1,0 +1,5 @@
+outs:
+- md5: 27b86ffa11303caea4f17f2459d77bc4
+  size: 3145728
+  hash: md5
+  path: parser_11269.py

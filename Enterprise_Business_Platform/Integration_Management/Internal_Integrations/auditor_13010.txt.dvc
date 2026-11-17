@@ -1,0 +1,5 @@
+outs:
+- md5: d33d6f1f41f847b75744421547ff030a
+  size: 3145728
+  hash: md5
+  path: auditor_13010.txt

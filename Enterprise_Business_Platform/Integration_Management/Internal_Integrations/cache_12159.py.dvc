@@ -1,0 +1,5 @@
+outs:
+- md5: 9810e82fb54f96f55bfb1dcffc32e942
+  size: 3145728
+  hash: md5
+  path: cache_12159.py

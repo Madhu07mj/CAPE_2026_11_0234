@@ -1,0 +1,5 @@
+outs:
+- md5: a2914b4eb9f0df997e9c3772b0fdd970
+  size: 3145728
+  hash: md5
+  path: processor_12217.py

@@ -1,0 +1,5 @@
+outs:
+- md5: bbb29bfa1eff578a4c8b45264d6fb0a0
+  size: 3145728
+  hash: md5
+  path: checker_11414.R

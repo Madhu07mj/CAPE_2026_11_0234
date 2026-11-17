@@ -1,0 +1,5 @@
+outs:
+- md5: 9b64a09aae8851d65f0c6ed290fcce7e
+  size: 3145728
+  hash: md5
+  path: loader_12960.txt

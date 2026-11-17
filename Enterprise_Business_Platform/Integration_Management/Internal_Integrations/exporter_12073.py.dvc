@@ -1,0 +1,5 @@
+outs:
+- md5: 4c49cea099212257ea053a06cbc0e556
+  size: 3145728
+  hash: md5
+  path: exporter_12073.py

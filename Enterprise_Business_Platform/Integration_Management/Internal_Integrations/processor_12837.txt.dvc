@@ -1,0 +1,5 @@
+outs:
+- md5: c2d111e2bcbde3614742291cd5fcdc43
+  size: 3145728
+  hash: md5
+  path: processor_12837.txt

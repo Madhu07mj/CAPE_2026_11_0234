@@ -1,0 +1,5 @@
+outs:
+- md5: 9e00ed11183fc1bdea04694dec0f6ce6
+  size: 3145728
+  hash: md5
+  path: monitor_12095.py

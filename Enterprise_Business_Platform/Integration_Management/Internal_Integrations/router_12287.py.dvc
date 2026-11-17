@@ -1,0 +1,5 @@
+outs:
+- md5: cad86575c31213d130b95fa89cc95d4c
+  size: 3145728
+  hash: md5
+  path: router_12287.py

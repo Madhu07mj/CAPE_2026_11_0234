@@ -1,0 +1,5 @@
+outs:
+- md5: cf9106794165b6e5b6ee91fd8b8fa765
+  size: 3145728
+  hash: md5
+  path: cache_11999.txt

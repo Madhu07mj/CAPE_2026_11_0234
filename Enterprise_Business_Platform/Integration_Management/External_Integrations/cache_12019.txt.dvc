@@ -1,0 +1,5 @@
+outs:
+- md5: b097a62da8ec2b46d4f97ef750623084
+  size: 3145728
+  hash: md5
+  path: cache_12019.txt

@@ -1,0 +1,5 @@
+outs:
+- md5: 24c5d2e213a1f1ae66a70af180adeac4
+  size: 3145728
+  hash: md5
+  path: validator_12163.py

@@ -1,0 +1,5 @@
+outs:
+- md5: 94a5e6257a9b505e907dc2748532d87a
+  size: 3145728
+  hash: md5
+  path: mapper_11124.py

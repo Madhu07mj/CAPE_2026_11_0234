@@ -1,0 +1,5 @@
+outs:
+- md5: b373f0371cbf5438278ae0afb2a9f3b7
+  size: 3145728
+  hash: md5
+  path: notifier_12025.txt

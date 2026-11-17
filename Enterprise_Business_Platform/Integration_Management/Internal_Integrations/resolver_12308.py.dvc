@@ -1,0 +1,5 @@
+outs:
+- md5: 0d147f9a1ef5c6fedb3a3c31e66e01e7
+  size: 3145728
+  hash: md5
+  path: resolver_12308.py

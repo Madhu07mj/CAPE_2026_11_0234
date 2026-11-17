@@ -1,0 +1,5 @@
+outs:
+- md5: de82e4807bc22e3a098b49d774b3a455
+  size: 3145728
+  hash: md5
+  path: formatter_13051.txt

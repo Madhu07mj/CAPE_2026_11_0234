@@ -1,0 +1,5 @@
+outs:
+- md5: 3f85a0c65cdf97d9fdf91f303bca8f2a
+  size: 3145728
+  hash: md5
+  path: loader_12420.R

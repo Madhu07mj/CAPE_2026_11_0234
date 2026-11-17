@@ -1,0 +1,5 @@
+outs:
+- md5: 3155183698c616b85da3b4dc724ccd4c
+  size: 3145728
+  hash: md5
+  path: importer_12016.txt

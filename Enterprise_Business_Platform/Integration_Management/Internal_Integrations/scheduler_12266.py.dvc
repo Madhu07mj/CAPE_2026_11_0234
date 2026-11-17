@@ -1,0 +1,5 @@
+outs:
+- md5: 4ae52cba53dea21a5582262c805c5be1
+  size: 3145728
+  hash: md5
+  path: scheduler_12266.py

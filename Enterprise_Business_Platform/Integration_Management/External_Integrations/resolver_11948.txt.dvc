@@ -1,0 +1,5 @@
+outs:
+- md5: 5027205ee1f2ae4cdc65d567257f7118
+  size: 3145728
+  hash: md5
+  path: resolver_11948.txt

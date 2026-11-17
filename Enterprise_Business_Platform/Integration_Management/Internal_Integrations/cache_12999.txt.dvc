@@ -1,0 +1,5 @@
+outs:
+- md5: 0be7f990e4d46ad8a60d9acc2e72b92d
+  size: 3145728
+  hash: md5
+  path: cache_12999.txt

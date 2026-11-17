@@ -1,0 +1,5 @@
+outs:
+- md5: 6273f140682774e7fa39f7c329d8f901
+  size: 3145728
+  hash: md5
+  path: handler_11212.py

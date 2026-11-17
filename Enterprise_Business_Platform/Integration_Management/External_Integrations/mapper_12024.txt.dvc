@@ -1,0 +1,5 @@
+outs:
+- md5: 10ac7602e8734cd7c6d290c6172725e5
+  size: 3145728
+  hash: md5
+  path: mapper_12024.txt

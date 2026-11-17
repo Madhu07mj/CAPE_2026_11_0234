@@ -1,0 +1,5 @@
+outs:
+- md5: a90d2b308f7940d348b55f5e8f962cf8
+  size: 3145728
+  hash: md5
+  path: monitor_12015.txt
