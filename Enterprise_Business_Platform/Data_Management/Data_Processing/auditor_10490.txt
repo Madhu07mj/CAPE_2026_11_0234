@@ -1,6 +1,5 @@
 Auditor notes 10490 for Data Management
 ==================================================
-Entry 0001 | shipment | active | amount 7097 | owner order_team
 Entry 0002 | shipment | pending | amount 4434 | owner product_team
 Entry 0003 | shipment | pending | amount 5270 | owner account_team
 Entry 0004 | invoice | failed | amount 8166 | owner invoice_team
