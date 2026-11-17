@@ -1,0 +1,5 @@
+outs:
+- md5: adcabe565daa9952b72bf84f43139a7f
+  size: 2097152
+  hash: md5
+  path: formatter_10891.R

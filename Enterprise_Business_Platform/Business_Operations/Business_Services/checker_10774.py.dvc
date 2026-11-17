@@ -1,0 +1,5 @@
+outs:
+- md5: 50ff8ce5e2d7f810f416bd34a7d84168
+  size: 2097152
+  hash: md5
+  path: checker_10774.py

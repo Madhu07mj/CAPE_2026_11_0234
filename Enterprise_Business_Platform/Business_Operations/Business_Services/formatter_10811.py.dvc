@@ -1,0 +1,5 @@
+outs:
+- md5: 78e29ef2a504b11bd2d2030e390a3810
+  size: 2097152
+  hash: md5
+  path: formatter_10811.py

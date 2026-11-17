@@ -1,0 +1,5 @@
+outs:
+- md5: 73263dad50a3140fad141072505e8e83
+  size: 2097152
+  hash: md5
+  path: importer_10576.py

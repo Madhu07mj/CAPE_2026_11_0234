@@ -1,0 +1,5 @@
+outs:
+- md5: 68fa61375d749a28610f663d736732a0
+  size: 2097152
+  hash: md5
+  path: cache_10719.txt

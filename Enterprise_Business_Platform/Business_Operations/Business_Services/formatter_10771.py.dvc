@@ -1,0 +1,5 @@
+outs:
+- md5: 507ec5b9643dc20e499059df8da094c8
+  size: 2097152
+  hash: md5
+  path: formatter_10771.py

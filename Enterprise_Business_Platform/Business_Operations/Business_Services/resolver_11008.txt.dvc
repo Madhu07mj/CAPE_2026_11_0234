@@ -1,0 +1,5 @@
+outs:
+- md5: 2d9c026e6a6b35b7daa7a21bf67ca704
+  size: 2097152
+  hash: md5
+  path: resolver_11008.txt

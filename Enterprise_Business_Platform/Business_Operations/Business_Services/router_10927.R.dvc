@@ -1,0 +1,5 @@
+outs:
+- md5: 32c85a0efe5e6c6e5e5f9080e1fe6dc4
+  size: 2097152
+  hash: md5
+  path: router_10927.R

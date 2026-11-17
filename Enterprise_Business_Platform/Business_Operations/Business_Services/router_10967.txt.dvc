@@ -1,0 +1,5 @@
+outs:
+- md5: cad6f770fbe98a57ab143049a33c307e
+  size: 2097152
+  hash: md5
+  path: router_10967.txt

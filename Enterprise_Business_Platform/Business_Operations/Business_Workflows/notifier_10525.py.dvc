@@ -1,0 +1,5 @@
+outs:
+- md5: 87c3beca048dc019c506d1f827453b01
+  size: 2097152
+  hash: md5
+  path: notifier_10525.py

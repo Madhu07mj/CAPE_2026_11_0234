@@ -1,0 +1,5 @@
+outs:
+- md5: 02fc16894c193e9525e347ef38886fbc
+  size: 2097152
+  hash: md5
+  path: builder_10681.txt

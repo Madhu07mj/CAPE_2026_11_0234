@@ -1,0 +1,5 @@
+outs:
+- md5: f648af5e21dea1209c60a9563af16c50
+  size: 2097152
+  hash: md5
+  path: handler_10672.txt

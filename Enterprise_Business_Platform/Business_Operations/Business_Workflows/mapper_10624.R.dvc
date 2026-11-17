@@ -1,0 +1,5 @@
+outs:
+- md5: 10d860c223a09d73b39ad5f4c31141af
+  size: 2097152
+  hash: md5
+  path: mapper_10624.R

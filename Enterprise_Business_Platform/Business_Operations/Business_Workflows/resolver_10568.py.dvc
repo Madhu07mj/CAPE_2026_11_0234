@@ -1,0 +1,5 @@
+outs:
+- md5: 5325791fdd22af2ff4a82edb96085dca
+  size: 2097152
+  hash: md5
+  path: resolver_10568.py
